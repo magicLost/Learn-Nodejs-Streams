@@ -10,8 +10,8 @@
     "rpc-stream": "^2.1.2",
     "split2": "^3.1.1",
     "to2": "^1.0.0",
-    "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.11",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "websocket-stream": "^5.5.2",
     "yo-yo": "^1.4.1"
   },
